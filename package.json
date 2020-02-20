@@ -16,6 +16,8 @@
     "appId": "com.nrgapple.excalidraw",
     "win": {
       "target": "NSIS"
+    },
+    "mac": {
     }
   }
 }
