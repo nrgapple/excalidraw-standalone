@@ -3,7 +3,7 @@ const path = require('path')
 const url = require('url')
 
 let mainWindow
-const SRC_DIR = 'app'
+const SRC_DIR = 'excalidraw/build'
 
 function createWindow() {
   mainWindow = new BrowserWindow({ width: 800, height: 600 })

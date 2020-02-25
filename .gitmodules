@@ -1,0 +1,3 @@
+[submodule "excalidraw"]
+	path = excalidraw
+	url = https://github.com/nrgapple/excalidraw.git
