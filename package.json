@@ -1,6 +1,6 @@
 {
   "name": "Local-Excalidraw",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A standalone Excalidraw",
   "main": "main.js",
   "scripts": {
@@ -16,7 +16,8 @@
   "build": {
     "appId": "com.nrgapple.excalidraw",
     "win": {
-      "target": "NSIS"
+      "target": "NSIS",
+      "icon": "logo-256x256.png"
     },
     "mac": {}
   }
